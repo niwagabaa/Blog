@@ -6,3 +6,6 @@ p {
     color: green;
 }
 
+.navbar-collapse{
+    justify-content: flex-end;
+   }
